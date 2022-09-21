@@ -18,7 +18,7 @@ Use this to reach elevated platforms, or profit from this extra height to your a
 Use this to climb your way up when between very high parallel walls.
 
 # Learning Outcomes
-This project helped me learn about:
+This project helped me get an idea about:
 - Handling player & camera movemement and rotation in a 3D setting.
 - Handling player controls and checking if the control's action is allowed to happen (e.g.: a player can't jump while mid air).
 - Working with rigidbody, triggers, colliders, and physics raycasts (e.g.: raycasts would be used to know if a player is on the ground).
