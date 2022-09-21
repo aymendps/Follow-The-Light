@@ -14,7 +14,7 @@ Darkness can be treacherous, and some objects are only visible if some light is 
 ## Jump in the same spot to bounce higher each time
 Use this to reach elevated platforms, or profit from this extra height to your advantage.
 
-## Quickly jump back and forth between two walls
+## Quickly hop between two walls
 Use this to climb your way up when between very high parallel walls.
 
 # Learning Outcomes
